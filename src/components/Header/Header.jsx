@@ -13,7 +13,7 @@ const Header = () => {
                 <Link href={'/about/contact'}>Contact</Link>
                 <Link href={'/about/teams'}>Teams</Link>
                 {/* special */}
-                {/* <Link href={'/dashboard'}>DashBoard</Link> */}
+                <Link href={'/dashboard'}>DashBoard</Link>
             </nav>
         </header>
     );
