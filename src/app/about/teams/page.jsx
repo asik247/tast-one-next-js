@@ -1,12 +1,12 @@
 import Title from '@/components/Title/Title';
 import React from 'react';
 
-const About = () => {
+const Teams = () => {
     return (
         <div>
-            <Title>About Us page here</Title>
+            <Title>Teams page hree</Title>
         </div>
     );
 };
 
-export default About;
+export default Teams;

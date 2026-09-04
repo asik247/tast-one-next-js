@@ -1,9 +1,10 @@
+import Title from '@/components/Title/Title';
 import React from 'react';
 
 const Contact = () => {
     return (
         <div>
-            <h1>Contact here</h1>
+            <Title>Nested page in contact:0148885785969696</Title>
         </div>
     );
 };
